@@ -25,6 +25,8 @@ Before you begin, ensure you have the following installed:
    # or
    yarn install
    
+   create .env file with your BITLY token
+   
    yarn dev 
    # or
    npm run dev
